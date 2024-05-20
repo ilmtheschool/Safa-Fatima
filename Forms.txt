@@ -1,0 +1,29 @@
+
+Result Size: 668 x 455
+<!DOCTYPE html>
+<html>
+<body>
+​
+<h1>ILM THE SCHOOL ADMISSION FORM </h1>
+​
+<form action="/action_page.php">
+  <label for="fname">Student Full Name:</label><br>
+  <input type="text" id="fname" name="fname" value="Safa Fatima"><br>
+  <label for="lname">Father Nama:</label><br>
+  <input type="text" id="lname" name="lname" value=<br>
+  <label for="fname">Father's WhatsApp Contact:</label><br>
+  <input type="text" id="fname" name="fname" value=<br>
+  <label for="lname">Mother's WhatsApp Contact:</label><br>
+  <input type="text" id="lname" name="lname" value=<br>
+  <label for="lname">Admission into Class:</label><br>
+  <input type="text" id="lname" name="lname" value=<br>
+
+ <input type="submit" value="Submit">
+</form> 
+​
+<p>If you click the "Submit" button, the form-data will be sent to a page called "/action_page.php".</p>
+​
+</body>
+</html>
+​
+​
